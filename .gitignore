@@ -1,4 +1,6 @@
-TestTaskBill/.vs/*
+.vs/*
 
-TestTaskBill/TestTaskBill/bin/*
+TestTaskBill/bin/*
+
+TestTaskBill/obj/*
 
